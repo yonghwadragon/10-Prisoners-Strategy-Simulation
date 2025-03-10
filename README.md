@@ -94,5 +94,3 @@ jupyter notebook "10명의죄수_순환.ipynb"
 - 상자 개수 및 탐색 제한 변경 실험
 - 몬테카를로 시뮬레이션을 통한 대규모 실험
 
-이 프로젝트는 **AI & Machine Learning**, **Data Science & Visualization**, 그리고 **Learning & Experiments** 카테고리에 해당합니다.
-
